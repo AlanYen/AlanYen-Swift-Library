@@ -1,0 +1,15 @@
+PODS:
+  - Kingfisher (3.10.0)
+  - SVProgressHUD (2.1.2)
+
+DEPENDENCIES:
+  - Kingfisher (~> 3.10.0)
+  - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Kingfisher: 43a129d0f8cafa667224bd7130d7bc8ccb8c7751
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+
+PODFILE CHECKSUM: 92170b353d0e2e7c47f7da1bfac86774b30a7a55
+
+COCOAPODS: 1.2.0
