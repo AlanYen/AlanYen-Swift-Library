@@ -23,3 +23,7 @@ http://www.hangge.com/blog/cache/detail_1673.html<br />
 http://www.hangge.com/blog/cache/detail_1674.html<br />
 http://www.hangge.com/blog/cache/detail_1675.html<br />
 http://www.hangge.com/blog/cache/detail_1676.html<br />
+#
+# RealmSwift<br />
+Realm Swift enables you to efficiently write your app’s model layer in a safe, persisted and fast way.<br />
+https://realm.io/docs/swift/latest/
